@@ -1,2 +1,2 @@
-# Marketing-Strategy_Personalised-Offer
+# Marketing Strategy Personalised Offer
 Understand the user behaviours regarding the offers
